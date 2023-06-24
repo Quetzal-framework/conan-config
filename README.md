@@ -12,6 +12,18 @@ The repository includes the following directories and configuration files:
 
 - `conan.conf`: This file is the main configuration file for Conan. It contains global settings and options that influence Conan's behavior.
 
-  ## Usage
+## Usage
 
-  It is meant to be used with `conan config install https://github.com/Quetzal-framework/conan-config.git` in a Dockerfile, specifically for the Visual Studio Code DevContainer extension working with the [Quetzal starter project](https://github.com/Quetzal-framework/starter-template)
+It is meant to be used with `conan config install https://github.com/Quetzal-framework/conan-config.git` in a Dockerfile, specifically for the Visual Studio Code DevContainer extension working with the [Quetzal starter project](https://github.com/Quetzal-framework/starter-template)
+
+## License
+
+This repository is provided under the GNU General Public License v3.0. Feel free to use and modify the configuration files as needed, but keep in mind the requirements and obligations imposed by the GPL v3.0 license.
+
+## Disclaimer
+
+The configuration files in this repository are provided as a starting point and a reference. It is important to review and adjust the settings according to your specific needs and requirements. Use them at your own discretion and ensure compatibility with your development environment.
+
+
+
+
